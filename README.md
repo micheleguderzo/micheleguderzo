@@ -11,12 +11,13 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 - **Data visualization**: I strive to present data clearly through intuitive and effective visualizations, helping make complex information more accessible.
 - **Finance**: I have a growing interest in investments and algorithmic trading, and I’m exploring data-driven approaches within this field.
 
-## 🔍 What I do
-
-- **Data analysis**: I leverage data to extract insights and help inform business decisions.
-- **Machine learning**: I am delving into various machine learning models to build predictive systems and enhance automation.
-- **Data visualization**: I create clear and perceptive visualizations to help communicate complex data in an accessible way.
-- **Finance**: I am particularly interested in investments and algorithmic trading.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 🛠️ Skills & Tools
 
