@@ -1,4 +1,4 @@
-# Hi there, I'm [Michele Guderzo] 👋
+# Hi there, I'm Michele Guderzo 👋
 
 Welcome to my GitHub profile! I am a fervent **Data Science enthusiast** with a **BSc in Statistics for Technology and Science**. I am passionate about transforming data into valuable insights by leveraging **data analysis**, **statistical modeling**, and **machine learning**. My goal is to uncover deeper truths about the world that surrounds me, seeking to not only understand its complexities but also to harness this knowledge in the pursuit of addressing meaningful challenges.
 
@@ -39,6 +39,6 @@ Feel free to explore and take a look at my work!
 I'm currently looking for **Data Scientist** or **Data Analyst** opportunities. Feel free to connect or reach out to me via:
 
 - LinkedIn: [Michele Guderzo](www.linkedin.com/in/micheleguderzo)
-- Email: [guderzo.michele@gmail.com]
+- Email: guderzo.michele@gmail.com
 
 Thanks for visiting my profile! 🙌
