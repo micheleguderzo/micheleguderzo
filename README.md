@@ -26,11 +26,11 @@ Here you will find a collection of my projects related to **data analysis**, **e
 
 ### Some of my key repositories:
 
-- [Project 1: Data Analysis Project](link-to-project): A brief description of the project.
-- [Project 2: Econometrics Project](link-to-project): A brief description of the project.
-- [Project 3: Spatial Econometrics Project](link-to-project): A brief description of the project.
-- [Project 4: Advanced Econometrics Project](link-to-project): A brief description of the project.
-- [Project 5: Thesis focused on Clustering and Decision Trees](link-to-project): A brief description of the project.
+- [Project 1: Data Analysis Project](link-to-project):
+- [Project 2: Econometrics Project](link-to-project):
+- [Project 3: Spatial Econometrics Project](link-to-project):
+- [Project 4: Advanced Econometrics Project](link-to-project):
+- [Project 5: Thesis focused on Clustering and Decision Trees](link-to-project):
 
 Feel free to explore and take a look at my work!
 
