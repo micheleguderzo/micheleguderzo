@@ -38,7 +38,7 @@ Feel free to explore and take a look at my work!
 
 I'm currently looking for **Data Scientist** or **Data Analyst** opportunities. Feel free to connect or reach out to me via:
 
-- LinkedIn: [Michele Guderzo](www.linkedin.com/in/micheleguderzo)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/micheleguderzo)
 - Email: guderzo.michele@gmail.com
 
 Thanks for visiting my profile! 🙌
