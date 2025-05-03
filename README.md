@@ -26,39 +26,47 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 ## 🛠️ Skills & Tools
 
 ### 👨‍💻 Languages  
-![Python](https://img.shields.io/badge/-?style=flat&logo=python&logoColor=3776AB)
-![R](https://img.shields.io/badge/-?style=flat&logo=r&logoColor=276DC3)
-![PostgreSQL](https://img.shields.io/badge/-?style=flat&logo=postgresql&logoColor=4479A1)
+- `Python`
+- `R`
+- `SQL`
 
 ### 📊 Data Analysis  
-![NumPy](https://img.shields.io/badge/-?style=flat&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/-?style=flat&logo=pandas&logoColor=150458)
-![SciPy](https://img.shields.io/badge/-?style=flat&logo=scipy&logoColor=8CAAE6)
+- `NumPy`
+- `Pandas`
+- `SciPy`
 
 ### 🧠 Machine Learning  
-![scikit-learn](https://img.shields.io/badge/-?style=flat&logo=scikit-learn&logoColor=F7931E)
-`caret` `nnet` <!-- (mantenuti in testo, non hanno logo) -->
+- `scikit-learn`
+- `caret (R package)`
+- `nnet (R package)`
 
 ### 📈 Data Visualization  
-![Matplotlib](https://img.shields.io/badge/-?style=flat&logo=matplotlib&logoColor=11557C)
-`Seaborn` `ggplot2` <!-- badge testuali opzionali -->
+- `Matplotlib`
+- `Seaborn`
+- `ggplot2`
 
 ### 🕒 Time Series  
-`forecast` `tsstudio` `zoo`
+- `forecast (R package)`
+- `tsstudio (R package)`
+- `zoo (R package)`
 
 ### 🧪 Statistical Analysis  
-`MASS` `DescTools` `lmtest`
+- `MASS (R package)`
+- `DescTools (R package)`
+- `lmtest (R package)`
 
 ### 🗺️ Geospatial Analysis  
-`sp` `rgdal` `geosphere`
+- `sp (R package)`
+- `rgdal (R package)`
+- `geosphere (R package)`
 
 ### 🛠 Tools  
-![VS Code](https://img.shields.io/badge/-?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Jupyter](https://img.shields.io/badge/-?style=flat&logo=jupyter&logoColor=F37626)
-![RStudio](https://img.shields.io/badge/-?style=flat&logo=rstudio&logoColor=75AADB)
-![MySQL](https://img.shields.io/badge/-?style=flat&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/-?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-?style=flat&logo=github&logoColor=181717)
+- `VS Code`
+- `Jupyter`
+- `RStudio`
+- `MySQL`
+- `Git`
+- `GitHub`
 
 
 ## 📚 Projects
