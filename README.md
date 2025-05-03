@@ -49,6 +49,12 @@ I'm currently looking for **Data Scientist** or **Data Analyst** opportunities. 
 - LinkedIn: [Michele Guderzo](https://www.linkedin.com/in/micheleguderzo)
 - Email: guderzo.michele@gmail.com
 
+## 📬 How to reach me
+Feel free to connect with me via:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/micheleguderzo)
+[![Email](https://img.shields.io/badge/Email-gmail?logo=gmail)](mailto:guderzo.michele@gmail.com)
+
 Thanks for visiting my profile! 🙌
 
 <!-- Badge for statistics
