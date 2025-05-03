@@ -41,8 +41,7 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 
 - **Tools**: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat) ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
-![ggplot2](https://img.shields.io/badge/-ggplot2-00A9E0?logo=ggplot2&logoColor=white&style=flat)
-![ggplot2](https://img.shields.io/badge/ggplot2-FF6F61?logo=r&logoColor=white&style=flat)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
 
 
