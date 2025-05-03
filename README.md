@@ -31,7 +31,7 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 
 - **Machine Learning**: ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=flat) ![caret](https://img.shields.io/badge/-caret-0072B2?logo=r&logoColor=white&style=flat) ![nnet](https://img.shields.io/badge/-nnet-003B58?logo=r&logoColor=white&style=flat)
 
-- **Data Visualization**: ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat) ![Seaborn](https://img.shields.io/badge/-Seaborn-2D3E50?logo=seaborn&logoColor=white&style=flat) ![ggplot2](https://img.shields.io/badge/-ggplot2-00A9E0?logo=ggplot2&logoColor=white&style=flat) ![corrplot](https://img.shields.io/badge/-corrplot-62C5F2?logo=r&logoColor=white&style=flat)
+- **Data Visualization**: ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat) ![Seaborn](https://img.shields.io/badge/-Seaborn-2D3E50?logo=seaborn&logoColor=white&style=flat) ![ggplot2](https://img.shields.io/badge/-ggplot2-00A9E0?logo=r&logoColor=white&style=flat) ![corrplot](https://img.shields.io/badge/-corrplot-62C5F2?logo=r&logoColor=white&style=flat)
 
 - **Time Series Analysis**: ![tseries](https://img.shields.io/badge/-tseries-003B58?logo=r&logoColor=white&style=flat) ![tsstudio](https://img.shields.io/badge/-tsstudio-5D5D5D?logo=r&logoColor=white&style=flat) ![forecast](https://img.shields.io/badge/-forecast-276DC3?logo=r&logoColor=white&style=flat) ![zoo](https://img.shields.io/badge/-zoo-278B98?logo=r&logoColor=white&style=flat)
 
