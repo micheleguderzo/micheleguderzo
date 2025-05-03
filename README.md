@@ -25,54 +25,21 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 
 ## 🛠️ Skills & Tools
 
-- **Languages**:  
-  ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)  
-  ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)  
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
 
-- **Data Analysis**:  
-  ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)  
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)  
-  ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white&style=flat)  
-  ![dplyr](https://img.shields.io/badge/-dplyr-4F7E2F?logo=r&logoColor=white&style=flat)  
-  ![tidyverse](https://img.shields.io/badge/-tidyverse-2F4F68?logo=r&logoColor=white&style=flat)
+- **Data Analysis**: ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat) ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white&style=flat) ![dplyr](https://img.shields.io/badge/-dplyr-4F7E2F?logo=r&logoColor=white&style=flat) ![tidyverse](https://img.shields.io/badge/-tidyverse-2F4F68?logo=r&logoColor=white&style=flat)
 
-- **Machine Learning**:  
-  ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)  
-  ![caret](https://img.shields.io/badge/-caret-0072B2?logo=r&logoColor=white&style=flat)  
-  ![nnet](https://img.shields.io/badge/-nnet-003B58?logo=r&logoColor=white&style=flat)
+- **Machine Learning**: ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=flat) ![caret](https://img.shields.io/badge/-caret-0072B2?logo=r&logoColor=white&style=flat) ![nnet](https://img.shields.io/badge/-nnet-003B58?logo=r&logoColor=white&style=flat)
 
-- **Data Visualization**:  
-  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat)  
-  ![Seaborn](https://img.shields.io/badge/-Seaborn-2D3E50?logo=seaborn&logoColor=white&style=flat)  
-  ![ggplot2](https://img.shields.io/badge/-ggplot2-00A9E0?logo=ggplot2&logoColor=white&style=flat)  
-  ![corrplot](https://img.shields.io/badge/-corrplot-62C5F2?logo=r&logoColor=white&style=flat)
+- **Data Visualization**: ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat) ![Seaborn](https://img.shields.io/badge/-Seaborn-2D3E50?logo=seaborn&logoColor=white&style=flat) ![ggplot2](https://img.shields.io/badge/-ggplot2-00A9E0?logo=ggplot2&logoColor=white&style=flat) ![corrplot](https://img.shields.io/badge/-corrplot-62C5F2?logo=r&logoColor=white&style=flat)
 
-- **Time Series Analysis**:  
-  ![tseries](https://img.shields.io/badge/-tseries-003B58?logo=r&logoColor=white&style=flat)  
-  ![tsstudio](https://img.shields.io/badge/-tsstudio-5D5D5D?logo=r&logoColor=white&style=flat)  
-  ![forecast](https://img.shields.io/badge/-forecast-276DC3?logo=r&logoColor=white&style=flat)  
-  ![zoo](https://img.shields.io/badge/-zoo-278B98?logo=r&logoColor=white&style=flat)
+- **Time Series Analysis**: ![tseries](https://img.shields.io/badge/-tseries-003B58?logo=r&logoColor=white&style=flat) ![tsstudio](https://img.shields.io/badge/-tsstudio-5D5D5D?logo=r&logoColor=white&style=flat) ![forecast](https://img.shields.io/badge/-forecast-276DC3?logo=r&logoColor=white&style=flat) ![zoo](https://img.shields.io/badge/-zoo-278B98?logo=r&logoColor=white&style=flat)
 
-- **Statistical Analysis**:  
-  ![MASS](https://img.shields.io/badge/-MASS-5F6A6A?logo=r&logoColor=white&style=flat)  
-  ![DescTools](https://img.shields.io/badge/-DescTools-4F77A3?logo=r&logoColor=white&style=flat)  
-  ![lmtest](https://img.shields.io/badge/-lmtest-1C7C4D?logo=r&logoColor=white&style=flat)
+- **Statistical Analysis**: ![MASS](https://img.shields.io/badge/-MASS-5F6A6A?logo=r&logoColor=white&style=flat) ![DescTools](https://img.shields.io/badge/-DescTools-4F77A3?logo=r&logoColor=white&style=flat) ![lmtest](https://img.shields.io/badge/-lmtest-1C7C4D?logo=r&logoColor=white&style=flat)
 
-- **Geospatial Analysis**:  
-  ![sp](https://img.shields.io/badge/-sp-68A8A8?logo=r&logoColor=white&style=flat)  
-  ![rgdal](https://img.shields.io/badge/-rgdal-5F8A92?logo=r&logoColor=white&style=flat)  
-  ![geosphere](https://img.shields.io/badge/-geosphere-004B3D?logo=r&logoColor=white&style=flat)  
-  ![maps](https://img.shields.io/badge/-maps-2D3333?logo=r&logoColor=white&style=flat)  
-  ![GISTools](https://img.shields.io/badge/-GISTools-FF6F61?logo=r&logoColor=white&style=flat)
+- **Geospatial Analysis**: ![sp](https://img.shields.io/badge/-sp-68A8A8?logo=r&logoColor=white&style=flat) ![rgdal](https://img.shields.io/badge/-rgdal-5F8A92?logo=r&logoColor=white&style=flat) ![geosphere](https://img.shields.io/badge/-geosphere-004B3D?logo=r&logoColor=white&style=flat) ![maps](https://img.shields.io/badge/-maps-2D3333?logo=r&logoColor=white&style=flat) ![GISTools](https://img.shields.io/badge/-GISTools-FF6F61?logo=r&logoColor=white&style=flat)
 
-- **Tools**:  
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)  
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)  
-  ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=flat)  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+- **Tools**: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat) ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
 
 ## 📚 Projects
