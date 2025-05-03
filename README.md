@@ -10,7 +10,7 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 - 🤖 **Machine learning**: I am deepening my understanding of supervised and unsupervised models, applying them to course-related projects and personal explorations.
 - 🖼️ **Data visualization**: I strive to present data clearly through intuitive and effective visualizations, helping make complex information more accessible.
 - 💸 **Finance**: I have a growing interest in investments and algorithmic trading, and I’m exploring data-driven approaches within this field.
-
+<!--
 ## 🛠️ Skills & Tools
 
 - **Languages**: `Python`, `R`, `SQL`
@@ -21,7 +21,7 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 - **Statistical Analysis**: `lmtest`, `MASS`, `car`, `DescTools`
 - **Geospatial Analysis**: `sp`, `rgdal`, `geosphere`, `maps`, `GISTools`
 - **Tools**: `VS Code`, `Jupyter Notebook`, `RStudio`, `MySQL`, `Git`, `GitHub`
-
+-->
 
 ## 🛠️ Skills & Tools
 
