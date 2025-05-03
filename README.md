@@ -35,7 +35,7 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 
 - **Time Series Analysis**: ![tseries](https://img.shields.io/badge/-tseries-003B58?logo=r&logoColor=white&style=flat) ![tsstudio](https://img.shields.io/badge/-tsstudio-5D5D5D?logo=r&logoColor=white&style=flat) ![forecast](https://img.shields.io/badge/-forecast-276DC3?logo=r&logoColor=white&style=flat) ![zoo](https://img.shields.io/badge/-zoo-278B98?logo=r&logoColor=white&style=flat)
 
-- **Statistical Analysis**: ![MASS](https://img.shields.io/badge/-MASS-5F6A6A?logo=r&logoColor=white&style=flat) ![DescTools](https://img.shields.io/badge/-DescTools-4F77A3?logo=r&logoColor=white&style=flat) ![lmtest](https://img.shields.io/badge/-lmtest-1C7C4D?logo=r&logoColor=white&style=flat) ![car](https://img.shields.io/badge/car-R%20package-blue?style=flat-square)
+- **Statistical Analysis**: ![MASS](https://img.shields.io/badge/-MASS-5F6A6A?logo=r&logoColor=white&style=flat) ![DescTools](https://img.shields.io/badge/-DescTools-4F77A3?logo=r&logoColor=white&style=flat) ![lmtest](https://img.shields.io/badge/-lmtest-1C7C4D?logo=r&logoColor=white&style=flat) ![car](https://img.shields.io/badge/car-R%20package-blue?style=flat-square&logo=r&logoColor=white)
 
 - **Geospatial Analysis**: ![sp](https://img.shields.io/badge/-sp-68A8A8?logo=r&logoColor=white&style=flat) ![rgdal](https://img.shields.io/badge/-rgdal-5F8A92?logo=r&logoColor=white&style=flat) ![geosphere](https://img.shields.io/badge/-geosphere-004B3D?logo=r&logoColor=white&style=flat) ![maps](https://img.shields.io/badge/-maps-2D3333?logo=r&logoColor=white&style=flat) ![GISTools](https://img.shields.io/badge/-GISTools-FF6F61?logo=r&logoColor=white&style=flat)
 
