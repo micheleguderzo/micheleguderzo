@@ -10,6 +10,7 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 - 🤖 **Machine learning**: I am deepening my understanding of supervised and unsupervised models, applying them to course-related projects and personal explorations.
 - 🖼️ **Data visualization**: I strive to present data clearly through intuitive and effective visualizations, helping make complex information more accessible.
 - 💸 **Finance**: I have a growing interest in investments and algorithmic trading, and I’m exploring data-driven approaches within this field.
+
 <!--
 ## 🛠️ Skills & Tools
 
@@ -65,16 +66,20 @@ I believe that curiosity and passion go hand in hand, and I'm always looking for
 
 I'm currently looking for **Data Scientist** or **Data Analyst** opportunities. Feel free to connect or reach out to me via:
 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/micheleguderzo)
-[![Email](https://img.shields.io/badge/Email-gmail?logo=gmail)](mailto:guderzo.michele@gmail.com) -->
+<!--
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/micheleguderzo)
+[![Email](https://img.shields.io/badge/Email-gmail?logo=gmail)](mailto:guderzo.michele@gmail.com)
+-->
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/micheleguderzo)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30"/>](mailto:guderzo.michele@gmail.com)
 
 Thanks for visiting my profile! 🙌
 
-<!-- Badge for statistics
+<!--
+Badge for statistics
 ## 📊 GitHub Stats
 ![Michele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 ## 🗣️ Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&layout=compact&theme=radical) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&layout=compact&theme=radical)
+-->
