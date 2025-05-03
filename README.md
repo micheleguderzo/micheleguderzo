@@ -26,47 +26,39 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 ## 🛠️ Skills & Tools
 
 ### 👨‍💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-?style=flat&logo=python&logoColor=3776AB)
+![R](https://img.shields.io/badge/-?style=flat&logo=r&logoColor=276DC3)
+![PostgreSQL](https://img.shields.io/badge/-?style=flat&logo=postgresql&logoColor=4479A1)
 
 ### 📊 Data Analysis  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![NumPy](https://img.shields.io/badge/-?style=flat&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/-?style=flat&logo=pandas&logoColor=150458)
+![SciPy](https://img.shields.io/badge/-?style=flat&logo=scipy&logoColor=8CAAE6)
 
 ### 🧠 Machine Learning  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![caret (R)](https://img.shields.io/badge/caret-R%20package-blue?style=flat)
-![nnet (R)](https://img.shields.io/badge/nnet-R%20package-blue?style=flat)
+![scikit-learn](https://img.shields.io/badge/-?style=flat&logo=scikit-learn&logoColor=F7931E)
+`caret` `nnet` <!-- (mantenuti in testo, non hanno logo) -->
 
 ### 📈 Data Visualization  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2D3E50?style=flat)
-![ggplot2](https://img.shields.io/badge/ggplot2-R%20package-blue?style=flat)
+![Matplotlib](https://img.shields.io/badge/-?style=flat&logo=matplotlib&logoColor=11557C)
+`Seaborn` `ggplot2` <!-- badge testuali opzionali -->
 
 ### 🕒 Time Series  
-![forecast (R)](https://img.shields.io/badge/forecast-R%20package-blue?style=flat)
-![tsstudio (R)](https://img.shields.io/badge/tsstudio-R%20package-blue?style=flat)
-![zoo (R)](https://img.shields.io/badge/zoo-R%20package-blue?style=flat)
+`forecast` `tsstudio` `zoo`
 
 ### 🧪 Statistical Analysis  
-![MASS](https://img.shields.io/badge/MASS-R%20package-blue?style=flat)
-![DescTools](https://img.shields.io/badge/DescTools-R%20package-blue?style=flat)
-![lmtest](https://img.shields.io/badge/lmtest-R%20package-blue?style=flat)
+`MASS` `DescTools` `lmtest`
 
 ### 🗺️ Geospatial Analysis  
-![sp](https://img.shields.io/badge/sp-R%20package-blue?style=flat)
-![rgdal](https://img.shields.io/badge/rgdal-R%20package-blue?style=flat)
-![geosphere](https://img.shields.io/badge/geosphere-R%20package-blue?style=flat)
+`sp` `rgdal` `geosphere`
 
 ### 🛠 Tools  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Jupyter](https://img.shields.io/badge/-?style=flat&logo=jupyter&logoColor=F37626)
+![RStudio](https://img.shields.io/badge/-?style=flat&logo=rstudio&logoColor=75AADB)
+![MySQL](https://img.shields.io/badge/-?style=flat&logo=mysql&logoColor=4479A1)
+![Git](https://img.shields.io/badge/-?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-?style=flat&logo=github&logoColor=181717)
 
 
 ## 📚 Projects
