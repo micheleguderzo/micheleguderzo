@@ -78,8 +78,10 @@ Thanks for visiting my profile! 🙌
 
 <!--
 Badge for statistics
+
 ## 📊 GitHub Stats
 ![Michele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
 ## 🗣️ Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&layout=compact&theme=radical)
 -->
