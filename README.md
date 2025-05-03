@@ -96,6 +96,10 @@ I'm currently looking for **Data Scientist** or **Data Analyst** opportunities. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/micheleguderzo)
 [![Email](https://img.shields.io/badge/Email-gmail?logo=gmail)](mailto:guderzo.michele@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/micheleguderzo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/micheleguderzo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=plastic)](https://www.linkedin.com/in/micheleguderzo)
+
 <!-- ## 📬 How to reach me
 Feel free to connect with me via:
 
