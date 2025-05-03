@@ -22,6 +22,53 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 - **Geospatial Analysis**: sp, rgdal, geosphere, maps, GISTools
 - **Tools**: VS Code, Jupyter Notebook, RStudio, MySQL, Git, GitHub
 
+
+## 🛠️ Skills & Tools
+
+### 👨‍💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### 📊 Data Analysis  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+
+### 🧠 Machine Learning  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![caret (R)](https://img.shields.io/badge/caret-R%20package-blue?style=flat-square)
+![nnet (R)](https://img.shields.io/badge/nnet-R%20package-blue?style=flat-square)
+
+### 📈 Data Visualization  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2D3E50?style=flat-square)
+![ggplot2](https://img.shields.io/badge/ggplot2-R%20package-blue?style=flat-square)
+
+### 🕒 Time Series  
+![forecast (R)](https://img.shields.io/badge/forecast-R%20package-blue?style=flat-square)
+![tsstudio (R)](https://img.shields.io/badge/tsstudio-R%20package-blue?style=flat-square)
+![zoo (R)](https://img.shields.io/badge/zoo-R%20package-blue?style=flat-square)
+
+### 🧪 Statistical Analysis  
+![MASS](https://img.shields.io/badge/MASS-R%20package-blue?style=flat-square)
+![DescTools](https://img.shields.io/badge/DescTools-R%20package-blue?style=flat-square)
+![lmtest](https://img.shields.io/badge/lmtest-R%20package-blue?style=flat-square)
+
+### 🗺️ Geospatial Analysis  
+![sp](https://img.shields.io/badge/sp-R%20package-blue?style=flat-square)
+![rgdal](https://img.shields.io/badge/rgdal-R%20package-blue?style=flat-square)
+![geosphere](https://img.shields.io/badge/geosphere-R%20package-blue?style=flat-square)
+
+### 🛠 Tools  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+
 ## 📚 Projects
 
 Here you will find a collection of my projects related to **data analysis**, **econometrics**, and **machine learning**. These projects demonstrate my ability to work with real-world data and apply both statistical and machine learning techniques.
