@@ -22,6 +22,8 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 - **Geospatial Analysis**: `sp`, `rgdal`, `geosphere`, `maps`, `GISTools`
 - **Tools**: `VS Code`, `Jupyter Notebook`, `RStudio`, `MySQL`, `Git`, `GitHub`
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ## 📚 Projects
 
 Here you will find a collection of my projects related to **data analysis**, **econometrics**, and **machine learning**. These projects demonstrate my ability to work with real-world data and apply both statistical and machine learning techniques.
