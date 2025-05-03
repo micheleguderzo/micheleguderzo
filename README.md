@@ -23,6 +23,7 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 - **Tools**: `VS Code`, `Jupyter Notebook`, `RStudio`, `MySQL`, `Git`, `GitHub`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
 
 ## 📚 Projects
 
