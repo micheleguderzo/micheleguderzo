@@ -22,53 +22,6 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 - **Geospatial Analysis**: `sp`, `rgdal`, `geosphere`, `maps`, `GISTools`
 - **Tools**: `VS Code`, `Jupyter Notebook`, `RStudio`, `MySQL`, `Git`, `GitHub`
 
-
-## 🛠️ Skills & Tools
-
-### 👨‍💻 Languages  
-- `Python`
-- `R`
-- `SQL`
-
-### 📊 Data Analysis  
-- `NumPy`
-- `Pandas`
-- `SciPy`
-
-### 🧠 Machine Learning  
-- `scikit-learn`
-- `caret (R package)`
-- `nnet (R package)`
-
-### 📈 Data Visualization  
-- `Matplotlib`
-- `Seaborn`
-- `ggplot2`
-
-### 🕒 Time Series  
-- `forecast (R package)`
-- `tsstudio (R package)`
-- `zoo (R package)`
-
-### 🧪 Statistical Analysis  
-- `MASS (R package)`
-- `DescTools (R package)`
-- `lmtest (R package)`
-
-### 🗺️ Geospatial Analysis  
-- `sp (R package)`
-- `rgdal (R package)`
-- `geosphere (R package)`
-
-### 🛠 Tools  
-- `VS Code`
-- `Jupyter`
-- `RStudio`
-- `MySQL`
-- `Git`
-- `GitHub`
-
-
 ## 📚 Projects
 
 Here you will find a collection of my projects related to **data analysis**, **econometrics**, and **machine learning**. These projects demonstrate my ability to work with real-world data and apply both statistical and machine learning techniques.
@@ -93,8 +46,8 @@ I believe that curiosity and passion go hand in hand, and I'm always looking for
 
 I'm currently looking for **Data Scientist** or **Data Analyst** opportunities. Feel free to connect or reach out to me via:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/micheleguderzo)
-[![Email](https://img.shields.io/badge/Email-gmail?logo=gmail)](mailto:guderzo.michele@gmail.com)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/micheleguderzo)
+[![Email](https://img.shields.io/badge/Email-gmail?logo=gmail)](mailto:guderzo.michele@gmail.com) -->
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/micheleguderzo)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30"/>](mailto:guderzo.michele@gmail.com)
