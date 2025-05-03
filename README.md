@@ -13,14 +13,14 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: Python, R, SQL
-- **Data Analysis**: NumPy, Pandas, SciPy, dplyr, tidyverse
-- **Machine Learning**: Scikit-learn, caret, nnet
-- **Data Visualization**: Matplotlib, Seaborn, ggplot2, corrplot
-- **Time Series Analysis:**: tseries, tsstudio, forecast, zoo
-- **Statistical Analysis**: lmtest, MASS, car, DescTools
-- **Geospatial Analysis**: sp, rgdal, geosphere, maps, GISTools
-- **Tools**: VS Code, Jupyter Notebook, RStudio, MySQL, Git, GitHub
+- **Languages**: `Python`, `R`, `SQL`
+- **Data Analysis**: `NumPy`, `Pandas`, `SciPy`, `dplyr`, `tidyverse`
+- **Machine Learning**: `Scikit-learn`, `caret`, `nnet`
+- **Data Visualization**: `Matplotlib`, `Seaborn`, `ggplot2`, `corrplot`
+- **Time Series Analysis:**: `tseries`, `tsstudio`, `forecast`, `zoo`
+- **Statistical Analysis**: `lmtest`, `MASS`, `car`, `DescTools`
+- **Geospatial Analysis**: `sp`, `rgdal`, `geosphere`, `maps`, `GISTools`
+- **Tools**: `VS Code`, `Jupyter Notebook`, `RStudio`, `MySQL`, `Git`, `GitHub`
 
 
 ## 🛠️ Skills & Tools
