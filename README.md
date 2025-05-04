@@ -48,7 +48,7 @@ Here you will find a collection of my projects related to **data analysis**, **e
 
 ### Some of my key repositories:
 
-- [Project 1: Data Analysis Project](https://github.com/micheleguderzo/individuals-level-of-digital-skills):
+- [Project 1: Data Analysis Project](https://github.com/micheleguderzo/individuals-level-of-digital-skills): Exploratory data analysis on individuals' digital skills using a real-world dataset.
 - [Project 2: Econometrics Project](link-to-project):
 - [Project 3: Spatial Econometrics Project](link-to-project):
 - [Project 4: Advanced Econometrics Project](link-to-project):
