@@ -46,13 +46,15 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 
 Here you will find a collection of my projects related to **data analysis**, **econometrics**, and **machine learning**. These projects demonstrate my ability to work with real-world data and apply both statistical and machine learning techniques.
 
+<!--
 ### Some of my key repositories:
+-->
 
 - [Project 1: Data Analysis Project](https://github.com/micheleguderzo/individuals-level-of-digital-skills): Exploratory data analysis on individuals' digital skills.
 - [Project 2: Econometrics Project](https://github.com/micheleguderzo/cross-sectional-analysis-on-rental-house-prices-in-warsaw): Analysis of rental house price determinants in Warsaw using linear regression and cross-sectional data.
 - [Project 3: Spatial Econometrics Project](https://github.com/micheleguderzo/gis-boundary-analysis-of-greater-london): Geospatial analysis on London wards and boroughs.
+- [Project 4: Advanced Econometrics Project](https://github.com/micheleguderzo/empirical-analysis-of-italian-financial-accounts): Time series analysis of Italian macroeconomic data using ARDL and ARIMA models.
 <!--
-- [Project 4: Advanced Econometrics Project](link-to-project):
 - [Project 5: Thesis focused on Clustering and Decision Trees](link-to-project):
 -->
 
