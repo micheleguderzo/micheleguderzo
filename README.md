@@ -51,13 +51,9 @@ Here you will find a collection of my projects related to **data analysis**, **e
 -->
 
 - [Project 1: Data Analysis Project](https://github.com/micheleguderzo/individuals-level-of-digital-skills): Exploratory data analysis on individuals' digital skills.
-<!--
 - [Project 2: Econometrics Project](https://github.com/micheleguderzo/cross-sectional-analysis-on-rental-house-prices-in-warsaw): Analysis of rental house price determinants in Warsaw using linear regression and cross-sectional data.
--->
 - [Project 3: Spatial Econometrics Project](https://github.com/micheleguderzo/gis-boundary-analysis-of-greater-london): Geospatial analysis on London wards and boroughs.
-<!--
 - [Project 4: Advanced Econometrics Project](https://github.com/micheleguderzo/empirical-analysis-of-italian-financial-accounts): Time series analysis of Italian macroeconomic data using ARDL and ARIMA models.
--->
 - [Project 5: Thesis focused on Clustering and Decision Trees](https://github.com/micheleguderzo/interpretable-supervised-clustering-with-decision-trees): Implementation of the Best Node Selection algorithm for interpretable supervised clustering using decision trees and Fβ-score.
 
 Feel free to explore and take a look at my work!
