@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 I am a recent graduate in **Statistics for Technology and Science** and a fervent **Data Science enthusiast**. I am passionate about transforming data into valuable insights by leveraging **data analysis**, **statistical modeling**, and **machine learning**. My goal is to uncover deeper truths about the world that surrounds me, seeking to not only understand its complexities but also to harness this knowledge in the pursuit of addressing meaningful challenges.
 
-## 🔍 What I do
+## 🎯 Focus Areas
 
 - 📊 **Data analysis**: I enjoy exploring datasets to extract meaningful patterns and provide actionable insights, primarily through academic projects and self-initiated work.
 - 🤖 **Machine learning**: I am deepening my understanding of supervised and unsupervised models, applying them to course-related projects and personal explorations.
