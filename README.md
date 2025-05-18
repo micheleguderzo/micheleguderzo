@@ -47,6 +47,9 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 
 Here you will find a collection of my projects related to **data analysis**, **econometrics**, and **machine learning**. These projects demonstrate my ability to work with real-world data and apply both statistical and machine learning techniques.
 
+Additionally, you can find a set of **academic paper reviews** I wrote during my Erasmus period, covering topics in text mining and spatial econometrics:  
+[📄 Paper Reviews Repository](https://github.com/micheleguderzo/paper-reviews)
+
 <!--
 ### Some of my key repositories:
 -->
