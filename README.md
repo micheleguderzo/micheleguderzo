@@ -9,7 +9,7 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 - 📊 **Data analysis**: I enjoy exploring datasets to extract meaningful patterns and provide actionable insights, primarily through academic projects and self-initiated work.
 - 🤖 **Machine learning**: I am deepening my understanding of supervised and unsupervised models, applying them to course-related projects and personal explorations.
 - 🖼️ **Data visualization**: I strive to present data clearly through intuitive and effective visualizations, helping make complex information more accessible.
-- 💸 **Finance**: I have a growing interest in investments and algorithmic trading, and I’m exploring data-driven approaches within this field.
+- 💸 **Finance**: I have a growing interest in budgeting, finance (both personal and market-related), and investments, and I am keen to learn more about data-driven approaches in these areas.
 
 <!--
 ## 🛠️ Skills & Tools
