@@ -47,9 +47,6 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 
 Here you will find a collection of my projects related to **data analysis**, **econometrics**, and **machine learning**. These projects demonstrate my ability to work with real-world data and apply both statistical and machine learning techniques.
 
-Additionally, you can find a set of **academic paper reviews** I wrote during my Erasmus period, covering topics in text mining and spatial econometrics:  
-[📄 Paper Reviews Repository](https://github.com/micheleguderzo/paper-reviews)
-
 <!--
 ### Some of my key repositories:
 -->
@@ -59,6 +56,9 @@ Additionally, you can find a set of **academic paper reviews** I wrote during my
 - [Project 3: Spatial Econometrics Project](https://github.com/micheleguderzo/gis-boundary-analysis-of-greater-london): Geospatial analysis on London wards and boroughs.
 - [Project 4: Advanced Econometrics Project](https://github.com/micheleguderzo/empirical-analysis-of-italian-financial-accounts): Time series analysis of Italian macroeconomic data using ARDL and ARIMA models.
 - [Project 5: Thesis focused on Clustering and Decision Trees](https://github.com/micheleguderzo/interpretable-supervised-clustering-with-decision-trees): Implementation of the Best Node Selection algorithm for interpretable supervised clustering using decision trees and Fβ-score.
+
+Additionally, you can find a set of **academic paper reviews** I wrote during my Erasmus period, covering topics in text mining and spatial econometrics:  
+[📄 Paper Reviews Repository](https://github.com/micheleguderzo/paper-reviews)
 
 Feel free to explore and take a look at my work!
 
