@@ -70,7 +70,7 @@ I believe that curiosity and passion go hand in hand, and I'm always looking for
 
 ## 📬 How to reach me
 
-I'm currently looking for **Data Scientist** or **Data Analyst** opportunities. Feel free to connect or reach out to me via:
+I'm currently looking for **Data Analyst** or **Data Scientist** opportunities. Feel free to connect or reach out to me via:
 
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/micheleguderzo)
