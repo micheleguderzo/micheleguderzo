@@ -9,11 +9,10 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 - 📊 **Data analysis**: I enjoy exploring datasets to extract meaningful patterns and provide actionable insights, primarily through academic projects and self-initiated work.
 - 🤖 **Machine learning**: I am deepening my understanding of supervised and unsupervised models, applying them to course-related projects and personal explorations.
 - 🖼️ **Data visualization**: I strive to present data clearly through intuitive and effective visualizations, helping make complex information more accessible.
-- 💻 **Tech**: I am deeply passionate about innovation and technology, continuously learning about new trends and their potential impact.
-- 💸 **Finance**: I have a growing interest in budgeting, finance (both personal and market-related), and investments.
+<!--💻 **Tech**: I am deeply passionate about innovation and technology, continuously learning about new trends and their potential impact.
+- 💸 **Finance**: I have a growing interest in budgeting, finance (both personal and market-related), and investments.-->
 
-<!--
-## 🛠️ Skills & Tools
+<!--## 🛠️ Skills & Tools
 
 - **Languages**: `Python`, `R`, `SQL`
 - **Data Analysis**: `NumPy`, `Pandas`, `SciPy`, `dplyr`, `tidyverse`
@@ -22,8 +21,7 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 - **Time Series Analysis:**: `tseries`, `tsstudio`, `forecast`, `zoo`
 - **Statistical Analysis**: `lmtest`, `MASS`, `car`, `DescTools`
 - **Geospatial Analysis**: `sp`, `rgdal`, `geosphere`, `maps`, `GISTools`
-- **Tools**: `VS Code`, `Jupyter Notebook`, `RStudio`, `MySQL`, `Git`, `GitHub`
--->
+- **Tools**: `VS Code`, `Jupyter Notebook`, `RStudio`, `MySQL`, `Git`, `GitHub`-->
 
 ## 🛠️ Skills & Tools
 
@@ -47,9 +45,7 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 
 Here you will find a collection of my projects related to **data analysis**, **econometrics**, and **machine learning**. These projects demonstrate my ability to work with real-world data and apply both statistical and machine learning techniques.
 
-<!--
-### Some of my key repositories:
--->
+<!--### Some of my key repositories:-->
 
 - [Project 1: Data Analysis Project](https://github.com/micheleguderzo/individuals-level-of-digital-skills): Exploratory data analysis on individuals' digital skills.
 - [Project 2: Econometrics Project](https://github.com/micheleguderzo/cross-sectional-analysis-on-rental-house-prices-in-warsaw): Analysis of rental house price determinants in Warsaw using linear regression and cross-sectional data.
@@ -62,20 +58,18 @@ Additionally, you can find a set of **academic paper reviews** I wrote during my
 
 Feel free to explore and take a look at my work!
 
-## 💡 A bit more about me
+<!--## 💡 A bit more about me
 
 In my free time, I enjoy watching anime and reading manga — not only do they inspire my creativity and problem-solving approach, but they’ve also played a meaningful role in my personal growth and self-reflection.
 I also enjoy playing the piano, learning new languages — I'm currently studying Japanese — and, last but not least, I love traveling and discovering new places and cultures.
-I believe that curiosity and passion go hand in hand, and I'm always looking for new ways to connect my personal interests with professional growth.
+I believe that curiosity and passion go hand in hand, and I'm always looking for new ways to connect my personal interests with professional growth.-->
 
 ## 📬 How to reach me
 
 I'm currently looking for **Data Analyst** or **Data Scientist** opportunities. Feel free to connect or reach out to me via:
 
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/micheleguderzo)
-[![Email](https://img.shields.io/badge/Email-gmail?logo=gmail)](mailto:guderzo.michele@gmail.com)
--->
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/micheleguderzo)
+[![Email](https://img.shields.io/badge/Email-gmail?logo=gmail)](mailto:guderzo.michele@gmail.com)-->
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/micheleguderzo)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30"/>](mailto:guderzo.michele@gmail.com)
