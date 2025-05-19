@@ -65,7 +65,7 @@ Feel free to explore and take a look at my work!
 ## 💡 A bit more about me
 
 In my free time, I enjoy watching anime and reading manga — not only do they inspire my creativity and problem-solving approach, but they’ve also played a meaningful role in my personal growth and self-reflection.
-I'm also passionate about technology and finance, and I love staying up to date with trends, tools, and ideas in both fields.
+I also enjoy playing the piano, learning new languages — I'm currently studying Japanese — and, last but not least, I love traveling and discovering new places and cultures.
 I believe that curiosity and passion go hand in hand, and I'm always looking for new ways to connect my personal interests with professional growth.
 
 ## 📬 How to reach me
