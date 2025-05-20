@@ -12,17 +12,6 @@ I am a recent graduate in **Statistics for Technology and Science** and a ferven
 <!--💻 **Tech**: I am deeply passionate about innovation and technology, continuously learning about new trends and their potential impact.
 - 💸 **Finance**: I have a growing interest in budgeting, finance (both personal and market-related), and investments.-->
 
-<!--## 🛠️ Skills & Tools
-
-- **Languages**: `Python`, `R`, `SQL`
-- **Data Analysis**: `NumPy`, `Pandas`, `SciPy`, `dplyr`, `tidyverse`
-- **Machine Learning**: `Scikit-learn`, `caret`, `nnet`
-- **Data Visualization**: `Matplotlib`, `Seaborn`, `ggplot2`, `corrplot`
-- **Time Series Analysis:**: `tseries`, `tsstudio`, `forecast`, `zoo`
-- **Statistical Analysis**: `lmtest`, `MASS`, `car`, `DescTools`
-- **Geospatial Analysis**: `sp`, `rgdal`, `geosphere`, `maps`, `GISTools`
-- **Tools**: `VS Code`, `Jupyter Notebook`, `RStudio`, `MySQL`, `Git`, `GitHub`-->
-
 ## 🛠️ Skills & Tools
 
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
@@ -58,12 +47,6 @@ Additionally, you can find a set of **academic paper reviews** I wrote during my
 
 Feel free to explore and take a look at my work!
 
-<!--## 💡 A bit more about me
-
-In my free time, I enjoy watching anime and reading manga — not only do they inspire my creativity and problem-solving approach, but they’ve also played a meaningful role in my personal growth and self-reflection.
-I also enjoy playing the piano, learning new languages — I'm currently studying Japanese — and, last but not least, I love traveling and discovering new places and cultures.
-I believe that curiosity and passion go hand in hand, and I'm always looking for new ways to connect my personal interests with professional growth.-->
-
 ## 📬 How to reach me
 
 I'm currently looking for **Data Analyst** or **Data Scientist** opportunities. Feel free to connect or reach out to me via:
@@ -76,12 +59,10 @@ I'm currently looking for **Data Analyst** or **Data Scientist** opportunities. 
 
 Thanks for visiting my profile! 🙌
 
-<!--
-Badge for statistics
+<!--Badge for statistics
 
 ## 📊 GitHub Stats
 ![Michele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 🗣️ Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&layout=compact&theme=radical)
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&layout=compact&theme=radical)-->
